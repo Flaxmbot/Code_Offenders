@@ -1,0 +1,7 @@
+If you want to run this application on localhost, must see application.properties for passwords and username.
+
+Requirements:-
+
+1: MySQL server and MySQL workbench must be installed and configured.
+
+More....
